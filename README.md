@@ -3,5 +3,5 @@
 Dit is mijn eerste server
 
 ## Gebruik
-- Ga naar de juiste foldeer
+- Ga naar de juiste folder
 - Type 'node.js'
